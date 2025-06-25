@@ -8,14 +8,21 @@
 
 <h2 align="center">🧠 Key Skills</h2>
 
-- **Languages & Frameworks**: JavaScript, TypeScript, React, Angular, React Native, Ionic Framework, Plasmo, Node.js, Express  
+- **Languages & Frameworks**: JavaScript, TypeScript, React, Angular, React Native, Ionic Framework, Plasmo, NestJS, AdonisJS, Laravel, Node.js, Express    
 - **AI & Data**: OpenAI APIs, GPT Integration, AI-driven DOM parsing  
-- **Frontend**: Tailwind CSS, HTML/Markdown parsing, Scss, Expo (mobile)  
+- **Frontend**: Tailwind CSS, HTML/Markdown parsing, SCSS, Expo (mobile)  
+- **Backend & Infrastructure**:
+  - **Stack & Frameworks**: Node.js, PHP, Java | NestJS, AdonisJS, Laravel, Spring Boot
+  - **Containers & Orchestration**: Docker, Kubernetes  
+  - **Caching**: Redis, Memcached, HTTP Caching  
+  - **CI/CD & DevOps**: GitHub Actions, GitLab CI, Deployment Pipelines  
+  - **Authentication & Security**: OAuth2, JWT, Rate Limiting, CSRF/XSS Protection  
+  - **Monitoring & Performance**: Logging, Metrics, Health Checks, Load Balancing  
+  - **Architecture**: REST APIs, Microservices, Token-based & Usage-based Billing
 - **Automation & Scraping**: Puppeteer, Browser Extensions, Session Emulation  
 - **Cloud**: Google Cloud, AWS, DigitalOcean, Azure, Render, Heroku, Shared Hosting  
 - **Databases**: PostgreSQL, DynamoDB, MongoDB, CouchDB, Supabase, Firestore, MariaDB, MSSQL  
 - **Payment Integration**: Stripe, LemonSqueezy, Paystack  
-- **Architecture**: REST APIs, Token-based & Usage-based billing, Scalable SaaS platforms  
 - **Tools**: GitHub, Chrome Web Store, VS Code, Postman  
 
 ---
